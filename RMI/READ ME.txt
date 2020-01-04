@@ -1,0 +1,18 @@
+Hello..
+
+In order to use this part you'll have to use the CMD.
+
+Open two CMD's, CD to here with both.
+
+On one of them copy this start rmiregistry
+
+Hit enter, it should now have spun up the registry server.
+
+Now you just copy this onto one of the two cmds
+
+java Server
+
+On the other one you merely copy this
+
+java Client
+
