@@ -1,0 +1,6 @@
+In order to use this part you'll need to have setup glassfish 5...
+
+Heres the config for the JNDI for both the queue and the connection factory: https://www.javatpoint.com/jms-tutorial
+
+
+For setting up the glassfish server read the read me of glassfish 5. It will detail how to do so.
